@@ -6,6 +6,10 @@ https://lennythedev.notion.site/Confluent-cloud-Node-js-01aa0049bb974773b3883f3e
 # When installing node-rdkafka, make sure to follow these instructions before `npm install`
 https://github.com/Blizzard/node-rdkafka/blob/master/README.md#mac-os-high-sierra--mojave
 
+# About the code
+- consumer.js and producer.js is directly from the Confluent Kafka tutorial
+- consumer2.js and producer2.js is modified for the `poems` topic
+
 # CLI login
 
 ```
@@ -13,8 +17,7 @@ confluent login
 ```
 
 Credentials:
-lenmorld@live.com
-ehj%LbzP#1L2H$J&
+see `confluent.io` in Last pass
 
 cluster_0
 
