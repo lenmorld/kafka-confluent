@@ -27,10 +27,12 @@ env-7nvpzw
 cluster:
 lkc-v1z0dj
 
-+------------+------------------------------------------------------------------+
-| API Key    | X7K2UHXBU7OWC6BV                                                 |
-| API Secret | S56Z2oUETfUYWI4EID/rU93Gw92j9KHaWg9EuohmDTGyjsA4TlnqrOpU5aQPmRnZ |
-+------------+------------------------------------------------------------------+
+
+# Credentials
+```
+API Key and API Secret
+- generate a new one on Confluent dashboard, or see on Last pass entry
+```
 
 ### Login
 confluent login --save
